@@ -1,2 +1,2 @@
-# JS_meme-maker
+# JS_memeMaker
  그림판 만들기
